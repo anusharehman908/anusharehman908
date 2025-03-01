@@ -1,5 +1,5 @@
 
- <img src="https://www.hubsol.com/public/upload/post/98734_web-development-skills.jpg" alt="banner" width="100%" height="400">
+ <img src="https://www.hubsol.com/public/upload/post/98734_web-development-skills.jpg" alt="banner" width="100%" height="200">
 
 <h1 align="center">Hi 👋, I'm ANUSHA REHMAN QURESHI</h1>
 <h3 align="center">A FULL STACK   DEVELOPER FROM PAKISTAN</h3>
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anusharehman908&show_icons=true&locale=en" alt="anusharehman908" /></p>
 
-<p><img align="center" src="https://th.bing.com/th/id/OIP.WYHZigMaJ-VVM4jKI7a_CAHaHa?rs=1&pid=ImgDetMain" alt="anusharehman908" height="200" width="400" /></p>
+<p><img align="center" src="https://th.bing.com/th/id/OIP.WYHZigMaJ-VVM4jKI7a_CAHaHa?rs=1&pid=ImgDetMain" alt="anusharehman908" height="200" width="500" /></p>
