@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anusharehman908&show_icons=true&locale=en" alt="anusharehman908" /></p>
 
-<p><img align="center" src="https://th.bing.com/th/id/OIP.WYHZigMaJ-VVM4jKI7a_CAHaHa?rs=1&pid=ImgDetMain" alt="anusharehman908" height="400" width="300" /></p>
+<p><img align="center" src="https://th.bing.com/th/id/OIP.WYHZigMaJ-VVM4jKI7a_CAHaHa?rs=1&pid=ImgDetMain" alt="anusharehman908" height="300" width="300" /></p>
